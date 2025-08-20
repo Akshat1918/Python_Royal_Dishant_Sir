@@ -77,3 +77,32 @@ modify_string = s2+s1[1 :].replace("r","#")
 print(modify_string)"""
 
 #s1 = "today is  rcb and csk match ."
+
+
+"""
+d1 ={}
+
+for i in range(3):
+    name = input("enter the name  : ")
+    marks =int(input("enter the marks "))
+    d1[name]=marks
+print(d1)   # {'sert': 56, 'wert': 15, 'qwert': 96}
+
+sorted_marks =sorted(d1.values())
+print(sorted_marks)  # [15 56 96 ]  []
+
+d2={}
+for i in sorted_marks:   # 
+    for name , marks in d1.items():
+        if marks == i:
+            d2[name]=marks
+print(d2)"""
+
+d1={}
+s =input("enter the string  : ")
+for i in s:
+    if i in d1:
+        d1[i]+=1
+    else: 
+        d1[i]=1
+print(d1)

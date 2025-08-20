@@ -52,7 +52,7 @@ b.display()
 
 # private variable  : 
 
-"""
+
 class pratham:
     def __init__(self,age,clg):
         self.__age=age   # age  , clg  ==> private variable
@@ -69,6 +69,5 @@ class pratham:
         self.__private_method()
 p=pratham(20,"LJ")
 p.display()
-p.display1()
+#p.display1()
 # p.__private_method()  ==> not  access diectly  
-"""

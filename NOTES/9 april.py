@@ -83,6 +83,7 @@ for i in range(3):
     d1[name]=marks
 print(d1)   # {'sert': 56, 'wert': 15, 'qwert': 96}
 """
+
 """
 sorted_marks =sorted(d1.values())
 print(sorted_marks)  # [15 56 96 ]  []
