@@ -132,3 +132,11 @@ swap the key value in dict :
 input  : {"yash" : 98 , "dev" : 78 , "hansal" : 99}
 output  : {98 : "yash" , 78 :"dev" , 99 : "hansal"}
 """
+
+# d1 = {"yash": 98, "dev": 78, "hansal": 99}
+# d2 = {}
+
+# for k in d1:
+#     d2[d1[k]] = k
+
+# print(d2)

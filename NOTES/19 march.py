@@ -49,7 +49,7 @@ syntax :
 while True :
     print()
     i+=1
-     break 
+    break 
 """
 
 # 1 - 10 : 

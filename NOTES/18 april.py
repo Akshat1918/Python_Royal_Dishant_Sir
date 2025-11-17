@@ -1,4 +1,4 @@
-#set : mutable  ==>  chages in  set .  and no repeation allow in set.  
+#set : mutable  ==>  changes in  set .  and no repeation allow in set.  
 
 """
 s1 ={1,2,3,4,4,5,6,6,7,8,9,9,10}
@@ -97,7 +97,7 @@ print(type(s1))
 # s1={1,2,3,3,4,4,5}  # no slicing set 
 # print(s1[3])
 
-# ======================================function  ===========================================
+# ======================================function===========================================
 
 """
 1. no  arg no return  

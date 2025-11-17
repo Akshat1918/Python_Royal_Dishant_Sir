@@ -14,8 +14,8 @@ output : ["aba" , "1221" , "maam" ]
 seprate  pelindorme string in a list. 
 
 task  : 3 
-l1=["python" , "java" , "c++" , "c" ,"react"]
-output =["python"]
+l1 = ["python" , "java" , "c++" , "c" ,"react"]
+output = ["python"]
 print longest word in list. 
 """
 # hint 2 : 
