@@ -274,19 +274,21 @@ if sum ==n:
 
 
 
-class pratham:
-    def __init__(self,age,clg): 
-        self.__age=age   # age  , clg  ==> private variable
-        self.__clg=clg
+# class pratham:
+#     def __init__(self,age,clg): 
+#         self.__age=age   # age  , clg  ==> private variable
+#         self.__clg=clg
     
-    def display(self):
-        print(self.__age)
-        print(self.__clg)
+#     def display(self):
+#         print(self.__age)
+#         print(self.__clg)
 
-    def __private_method(self):
-        print("pratham love clg LJ")
+#     def __private_method(self):
+#         print("pratham love clg LJ")
     
-    def display1(self):
-        self.__private_method()
-p=pratham(20,"LJ")
-p.display()
+#     def display1(self):
+#         self.__private_method()
+# p=pratham(20,"LJ")
+# p.display()
+
+ajdjsj
